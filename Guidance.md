@@ -28,7 +28,7 @@ $ spark-submit evaluation_script.py
 ## Files
 * `evaluation_script.py`  
 
-The full python codes that can be run in PySpark, including codes on baseline model and hyperparameter tuning, and hwo we use the best model (`rank=20, regParam=1, alpha=1`) to evaluate on the test set and get latent facotrs for both users and items
+The full python codes that can be run in PySpark, including codes on baseline model and hyperparameter tuning, and how we use the best model (`rank=20, regParam=1, alpha=1`) to evaluate on the test set and get latent facotrs for both users and items
 
 * `Extension_1_Fast_Search.ipynb`  
 
